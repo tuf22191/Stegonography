@@ -8,3 +8,4 @@ NOTES:
 .
   - YOU CAN ONLY HIDE FILES/STRINGS IN A BITMAP IMAGE FILE FORMAT!
 
+  - Also, the code has not been tested so far!!!
